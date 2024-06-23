@@ -1,1 +1,0 @@
-Invoking command in '/home/amareb/autonomousDriving/build/turtlebot3_cartographer': /usr/bin/cmake /home/amareb/autonomousDriving/src/turtlebot3/turtlebot3_cartographer -DCMAKE_INSTALL_PREFIX=/home/amareb/autonomousDriving/install/turtlebot3_cartographer

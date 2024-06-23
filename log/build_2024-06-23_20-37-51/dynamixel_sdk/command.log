@@ -1,2 +1,0 @@
-Invoking command in '/home/amareb/autonomousDriving/build/dynamixel_sdk': /usr/bin/cmake /home/amareb/autonomousDriving/src/DynamixelSDK/dynamixel_sdk -DCMAKE_INSTALL_PREFIX=/home/amareb/autonomousDriving/install/dynamixel_sdk
-Invoked command in '/home/amareb/autonomousDriving/build/dynamixel_sdk' returned '1': /usr/bin/cmake /home/amareb/autonomousDriving/src/DynamixelSDK/dynamixel_sdk -DCMAKE_INSTALL_PREFIX=/home/amareb/autonomousDriving/install/dynamixel_sdk
