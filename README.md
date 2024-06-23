@@ -1,4 +1,4 @@
-# Autonomous Driving for boats
+# Autonomous Driving using ROS for water vehicles
 
 This repository contains the necessary submodules and instructions to set up autonomous driving using TurtleBot3 with ROS2 Humble. The repository includes the navigation packages for TurtleBot3 and other necessary dependencies.
 
