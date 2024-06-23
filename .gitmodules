@@ -1,0 +1,16 @@
+[submodule "src/turtlebot3_simulations"]
+	path = src/turtlebot3_simulations
+	url = https://github.com/BaptisteAmare/turtlebot3_simulations.git
+	branch = humble-devel
+[submodule "src/turtlebot3"]
+	path = src/turtlebot3
+	url = https://github.com/BaptisteAmare/turtlebot3.git
+	branch = humble-devel
+[submodule "src/turtlebot3_msgs"]
+	path = src/turtlebot3_msgs
+	url = https://github.com/BaptisteAmare/turtlebot3_msgs.git
+	branch = humble-devel
+[submodule "src/DynamixelSDK"]
+	path = src/DynamixelSDK
+	url = https://github.com/BaptisteAmare/DynamixelSDK.git
+	branch = humble-devel
