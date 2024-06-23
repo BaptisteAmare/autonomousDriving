@@ -1,0 +1,38 @@
+[0.049s] Invoking command in '/home/amareb/autonomousDriving/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=/home/amareb/autonomousDriving/install/turtlebot3_teleop:/opt/ros/humble /usr/bin/cmake /home/amareb/autonomousDriving/src/turtlebot3/turtlebot3_cartographer -DCMAKE_INSTALL_PREFIX=/home/amareb/autonomousDriving/install/turtlebot3_cartographer
+[0.643s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.643s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.715s] -- Configuring done
+[0.726s] -- Generating done
+[0.728s] -- Build files have been written to: /home/amareb/autonomousDriving/build/turtlebot3_cartographer
+[0.748s] Invoked command in '/home/amareb/autonomousDriving/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=/home/amareb/autonomousDriving/install/turtlebot3_teleop:/opt/ros/humble /usr/bin/cmake /home/amareb/autonomousDriving/src/turtlebot3/turtlebot3_cartographer -DCMAKE_INSTALL_PREFIX=/home/amareb/autonomousDriving/install/turtlebot3_cartographer
+[0.759s] Invoking command in '/home/amareb/autonomousDriving/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=/home/amareb/autonomousDriving/install/turtlebot3_teleop:/opt/ros/humble /usr/bin/cmake --build /home/amareb/autonomousDriving/build/turtlebot3_cartographer -- -j16 -l16
+[0.851s] Invoked command in '/home/amareb/autonomousDriving/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=/home/amareb/autonomousDriving/install/turtlebot3_teleop:/opt/ros/humble /usr/bin/cmake --build /home/amareb/autonomousDriving/build/turtlebot3_cartographer -- -j16 -l16
+[0.959s] Invoking command in '/home/amareb/autonomousDriving/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=/home/amareb/autonomousDriving/install/turtlebot3_teleop:/opt/ros/humble /usr/bin/cmake --install /home/amareb/autonomousDriving/build/turtlebot3_cartographer
+[1.000s] -- Install configuration: ""
+[1.000s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/turtlebot3_cartographer/config
+[1.007s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/turtlebot3_cartographer/config/turtlebot3_lds_2d.lua
+[1.008s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/turtlebot3_cartographer/config/turtlebot3_lds_2d.lua:Zone.Identifier
+[1.009s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch
+[1.020s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/occupancy_grid.launch.py
+[1.020s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/cartographer.launch.py:Zone.Identifier
+[1.020s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/occupancy_grid.launch.py:Zone.Identifier
+[1.021s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/cartographer.launch.py
+[1.021s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/turtlebot3_cartographer/rviz
+[1.021s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/turtlebot3_cartographer/rviz/tb3_cartographer.rviz:Zone.Identifier
+[1.021s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/turtlebot3_cartographer/rviz/tb3_cartographer.rviz
+[1.021s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/ament_index/resource_index/package_run_dependencies/turtlebot3_cartographer
+[1.022s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/ament_index/resource_index/parent_prefix_path/turtlebot3_cartographer
+[1.029s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.sh
+[1.048s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.dsv
+[1.048s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.sh
+[1.048s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.dsv
+[1.048s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.bash
+[1.049s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.sh
+[1.049s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.zsh
+[1.049s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.dsv
+[1.049s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.dsv
+[1.050s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/ament_index/resource_index/packages/turtlebot3_cartographer
+[1.050s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig.cmake
+[1.050s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig-version.cmake
+[1.051s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.xml
+[1.077s] Invoked command in '/home/amareb/autonomousDriving/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=/home/amareb/autonomousDriving/install/turtlebot3_teleop:/opt/ros/humble /usr/bin/cmake --install /home/amareb/autonomousDriving/build/turtlebot3_cartographer

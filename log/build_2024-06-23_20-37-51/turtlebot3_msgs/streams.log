@@ -1,0 +1,32 @@
+[0.038s] Invoking command in '/home/amareb/autonomousDriving/build/turtlebot3_msgs': /usr/bin/cmake /home/amareb/autonomousDriving/src/turtlebot3_msgs -DCMAKE_INSTALL_PREFIX=/home/amareb/autonomousDriving/install/turtlebot3_msgs
+[0.535s] -- The C compiler identification is GNU 11.4.0
+[0.926s] -- The CXX compiler identification is GNU 11.4.0
+[0.996s] -- Detecting C compiler ABI info
+[1.212s] -- Detecting C compiler ABI info - done
+[1.234s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.235s] -- Detecting C compile features
+[1.237s] -- Detecting C compile features - done
+[1.244s] -- Detecting CXX compiler ABI info
+[1.430s] -- Detecting CXX compiler ABI info - done
+[1.445s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.447s] -- Detecting CXX compile features
+[1.449s] -- Detecting CXX compile features - done
+[2.089s] [31mCMake Error at CMakeLists.txt:18 (find_package):
+[2.089s]   By not providing "Findaction_msgs.cmake" in CMAKE_MODULE_PATH this project
+[2.089s]   has asked CMake to find a package configuration file provided by
+[2.089s]   "action_msgs", but CMake did not find one.
+[2.089s] 
+[2.089s]   Could not find a package configuration file provided by "action_msgs" with
+[2.089s]   any of the following names:
+[2.089s] 
+[2.089s]     action_msgsConfig.cmake
+[2.090s]     action_msgs-config.cmake
+[2.090s] 
+[2.090s]   Add the installation prefix of "action_msgs" to CMAKE_PREFIX_PATH or set
+[2.090s]   "action_msgs_DIR" to a directory containing one of the above files.  If
+[2.090s]   "action_msgs" provides a separate development package or SDK, be sure it
+[2.090s]   has been installed.
+[2.090s] 
+[2.090s] -- Configuring incomplete, errors occurred!
+[2.090s] See also "/home/amareb/autonomousDriving/build/turtlebot3_msgs/CMakeFiles/CMakeOutput.log".
+[2.090s] [0m

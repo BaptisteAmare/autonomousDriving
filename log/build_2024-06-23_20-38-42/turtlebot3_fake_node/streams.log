@@ -1,0 +1,84 @@
+[0.348s] Invoking command in '/home/amareb/autonomousDriving/build/turtlebot3_fake_node': AMENT_PREFIX_PATH=/home/amareb/autonomousDriving/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/amareb/autonomousDriving/install/turtlebot3_msgs:/home/amareb/autonomousDriving/install/turtlebot3_teleop:/opt/ros/humble LD_LIBRARY_PATH=/home/amareb/autonomousDriving/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/amareb/autonomousDriving/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/amareb/autonomousDriving/src/turtlebot3_simulations/turtlebot3_fake_node -DCMAKE_INSTALL_PREFIX=/home/amareb/autonomousDriving/install/turtlebot3_fake_node
+[0.448s] -- The C compiler identification is GNU 11.4.0
+[0.617s] -- The CXX compiler identification is GNU 11.4.0
+[0.716s] -- Detecting C compiler ABI info
+[0.833s] -- Detecting C compiler ABI info - done
+[0.844s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.845s] -- Detecting C compile features
+[0.846s] -- Detecting C compile features - done
+[0.850s] -- Detecting CXX compiler ABI info
+[1.015s] -- Detecting CXX compiler ABI info - done
+[1.031s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.033s] -- Detecting CXX compile features
+[1.033s] -- Detecting CXX compile features - done
+[1.036s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.308s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.468s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[1.614s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.620s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.633s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.653s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.682s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.888s] -- Found nav_msgs: 4.2.4 (/opt/ros/humble/share/nav_msgs/cmake)
+[2.027s] -- Found rclcpp: 16.0.9 (/opt/ros/humble/share/rclcpp/cmake)
+[2.114s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.118s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[2.615s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[3.062s] -- Found FastRTPS: /opt/ros/humble/include  
+[3.906s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.918s] -- Looking for pthread.h
+[4.039s] -- Looking for pthread.h - found
+[4.040s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[4.155s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[4.156s] -- Found Threads: TRUE  
+[4.351s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[4.481s] -- Found tf2: 0.25.7 (/opt/ros/humble/share/tf2/cmake)
+[4.506s] -- Found tf2_msgs: 0.25.7 (/opt/ros/humble/share/tf2_msgs/cmake)
+[4.746s] -- Found turtlebot3_msgs: 2.2.3 (/home/amareb/autonomousDriving/install/turtlebot3_msgs/share/turtlebot3_msgs/cmake)
+[4.973s] -- Configuring done
+[4.997s] -- Generating done
+[5.000s] -- Build files have been written to: /home/amareb/autonomousDriving/build/turtlebot3_fake_node
+[5.016s] Invoked command in '/home/amareb/autonomousDriving/build/turtlebot3_fake_node' returned '0': AMENT_PREFIX_PATH=/home/amareb/autonomousDriving/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/amareb/autonomousDriving/install/turtlebot3_msgs:/home/amareb/autonomousDriving/install/turtlebot3_teleop:/opt/ros/humble LD_LIBRARY_PATH=/home/amareb/autonomousDriving/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/amareb/autonomousDriving/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/amareb/autonomousDriving/src/turtlebot3_simulations/turtlebot3_fake_node -DCMAKE_INSTALL_PREFIX=/home/amareb/autonomousDriving/install/turtlebot3_fake_node
+[5.018s] Invoking command in '/home/amareb/autonomousDriving/build/turtlebot3_fake_node': AMENT_PREFIX_PATH=/home/amareb/autonomousDriving/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/amareb/autonomousDriving/install/turtlebot3_msgs:/home/amareb/autonomousDriving/install/turtlebot3_teleop:/opt/ros/humble LD_LIBRARY_PATH=/home/amareb/autonomousDriving/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/amareb/autonomousDriving/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/amareb/autonomousDriving/build/turtlebot3_fake_node -- -j16 -l16
+[5.071s] [ 50%] [32mBuilding CXX object CMakeFiles/turtlebot3_fake_node.dir/src/turtlebot3_fake_node.cpp.o[0m
+[44.882s] [100%] [32m[1mLinking CXX executable turtlebot3_fake_node[0m
+[46.196s] [100%] Built target turtlebot3_fake_node
+[46.216s] Invoked command in '/home/amareb/autonomousDriving/build/turtlebot3_fake_node' returned '0': AMENT_PREFIX_PATH=/home/amareb/autonomousDriving/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/amareb/autonomousDriving/install/turtlebot3_msgs:/home/amareb/autonomousDriving/install/turtlebot3_teleop:/opt/ros/humble LD_LIBRARY_PATH=/home/amareb/autonomousDriving/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/amareb/autonomousDriving/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/amareb/autonomousDriving/build/turtlebot3_fake_node -- -j16 -l16
+[46.264s] Invoking command in '/home/amareb/autonomousDriving/build/turtlebot3_fake_node': AMENT_PREFIX_PATH=/home/amareb/autonomousDriving/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/amareb/autonomousDriving/install/turtlebot3_msgs:/home/amareb/autonomousDriving/install/turtlebot3_teleop:/opt/ros/humble LD_LIBRARY_PATH=/home/amareb/autonomousDriving/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/amareb/autonomousDriving/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/amareb/autonomousDriving/build/turtlebot3_fake_node
+[46.276s] -- Install configuration: ""
+[46.278s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/lib/turtlebot3_fake_node/turtlebot3_fake_node
+[46.286s] -- Set runtime path of "/home/amareb/autonomousDriving/install/turtlebot3_fake_node/lib/turtlebot3_fake_node/turtlebot3_fake_node" to ""
+[46.286s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch
+[46.287s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/turtlebot3_fake_node.launch.py:Zone.Identifier
+[46.287s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/rviz2.launch.py:Zone.Identifier
+[46.287s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/rviz2.launch.py
+[46.288s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/turtlebot3_fake_node.launch.py
+[46.289s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param
+[46.291s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle.yaml
+[46.292s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle_pi.yaml
+[46.292s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/burger.yaml:Zone.Identifier
+[46.293s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/burger.yaml
+[46.294s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle_pi.yaml:Zone.Identifier
+[46.295s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle.yaml:Zone.Identifier
+[46.295s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/include/
+[46.295s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/include//turtlebot3_fake_node
+[46.295s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/include//turtlebot3_fake_node/turtlebot3_fake_node.hpp
+[46.296s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/include//turtlebot3_fake_node/turtlebot3_fake_node.hpp:Zone.Identifier
+[46.297s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/ament_index/resource_index/package_run_dependencies/turtlebot3_fake_node
+[46.298s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/ament_index/resource_index/parent_prefix_path/turtlebot3_fake_node
+[46.300s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.sh
+[46.301s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.dsv
+[46.302s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.sh
+[46.302s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.dsv
+[46.303s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.bash
+[46.303s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.sh
+[46.304s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.zsh
+[46.305s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.dsv
+[46.306s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.dsv
+[46.307s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/ament_index/resource_index/packages/turtlebot3_fake_node
+[46.308s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_include_directories-extras.cmake
+[46.309s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_dependencies-extras.cmake
+[46.310s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig.cmake
+[46.311s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig-version.cmake
+[46.312s] -- Installing: /home/amareb/autonomousDriving/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.xml
+[46.319s] Invoked command in '/home/amareb/autonomousDriving/build/turtlebot3_fake_node' returned '0': AMENT_PREFIX_PATH=/home/amareb/autonomousDriving/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/amareb/autonomousDriving/install/turtlebot3_msgs:/home/amareb/autonomousDriving/install/turtlebot3_teleop:/opt/ros/humble LD_LIBRARY_PATH=/home/amareb/autonomousDriving/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/amareb/autonomousDriving/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/amareb/autonomousDriving/build/turtlebot3_fake_node

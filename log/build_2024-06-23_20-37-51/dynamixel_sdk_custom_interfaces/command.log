@@ -1,0 +1,2 @@
+Invoking command in '/home/amareb/autonomousDriving/build/dynamixel_sdk_custom_interfaces': /usr/bin/cmake /home/amareb/autonomousDriving/src/DynamixelSDK/dynamixel_sdk_custom_interfaces -DCMAKE_INSTALL_PREFIX=/home/amareb/autonomousDriving/install/dynamixel_sdk_custom_interfaces
+Invoked command in '/home/amareb/autonomousDriving/build/dynamixel_sdk_custom_interfaces' returned '1': /usr/bin/cmake /home/amareb/autonomousDriving/src/DynamixelSDK/dynamixel_sdk_custom_interfaces -DCMAKE_INSTALL_PREFIX=/home/amareb/autonomousDriving/install/dynamixel_sdk_custom_interfaces

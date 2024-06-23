@@ -1,0 +1,2 @@
+Invoking command in '/home/amareb/autonomousDriving/build/turtlebot3_gazebo': /usr/bin/cmake /home/amareb/autonomousDriving/src/turtlebot3_simulations/turtlebot3_gazebo -DCMAKE_INSTALL_PREFIX=/home/amareb/autonomousDriving/install/turtlebot3_gazebo
+Invoked command in '/home/amareb/autonomousDriving/build/turtlebot3_gazebo' returned '1': /usr/bin/cmake /home/amareb/autonomousDriving/src/turtlebot3_simulations/turtlebot3_gazebo -DCMAKE_INSTALL_PREFIX=/home/amareb/autonomousDriving/install/turtlebot3_gazebo
